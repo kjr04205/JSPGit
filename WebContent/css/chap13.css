@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Black+Han+Sans&family=Montserrat:ital,wght@0,300;0,400;0,700;1,900&family=Nanum+Pen+Script&display=swap');
+*{
+	font-family: 'Black Han Sans', sans-serif;
+	
+}
+
+.bg-mycolor{
+	background-color: #a8e3b8;
+}
+.myborder{
+	border: 1px solid #46c8d4;	
+}
+.mycenter{
+	text-align: center;
+}
+.myright{
+	text-align: rigth;
+}
+.myheightcenter{
+	line-height: 20px;
+}
